@@ -1,0 +1,1 @@
+Rest wrapper for SOAP weather service. Run ```npm install``` then ```node app.js``` and wait for the magic to happen. J/K you gotta go to localhost:3000/explorer to start asking the API for thangz! Specifically /forecast and /weather.
